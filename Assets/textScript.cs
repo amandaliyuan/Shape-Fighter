@@ -9,7 +9,7 @@ public class textScript : MonoBehaviour {
 	Text txt;
 	// Use this for initialization
 	void Start () {
-		txt = getComponent<Text>();
+		//txt = getComponent<Text>();
 	}
 	
 	// Update is called once per frame
